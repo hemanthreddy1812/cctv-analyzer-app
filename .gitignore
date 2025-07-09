@@ -12,3 +12,5 @@ server/venv/
 .env
 .DS_Store
 
+# Prevent video uploads
+*.mp4
